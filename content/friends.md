@@ -4,8 +4,8 @@ draft = false
 title = 'Friends'  
 +++
 
-# Lovely Homies I know
+# Lovely People I know
 
-### Poorest Ukrainian --> notrogan.dev
+### Rogan --> notrogan.dev
 
 ### Fekie --> fekie.dev
