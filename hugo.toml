@@ -4,7 +4,7 @@ copyright = "© 2024 - Silewis or Silewis - This work is licensed under a <a hre
 canonifyurls = true
 languageCode = "en-US"
 paginate = 3
-theme = "hugo-theme-next"
+theme = "hugo-dark"
 
 googleAnalytics = ""
 disqusShortname = ""
