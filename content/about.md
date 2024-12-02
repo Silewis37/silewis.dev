@@ -5,7 +5,9 @@ title = 'About'
 +++
 # Who am I?
 
-I am Sapii, or that's what my online alias is.
+I am Silewis, or that's what my online alias is.
+
+I am Samuel Lewis, I am a programmer that is very advanced in multiple different programming languages. Such as Python, HTML, CSS, JS, C++, JAVA, Ruby, PHP, React, and a whole lot more than just those alone.
 
 I am a student at a particular early college, some might say best in the county.
 
