@@ -6,8 +6,8 @@ title = 'Friends'
 
 # Lovely People I know
 
-### Rogan --> [notrogan.dev](notrogan.dev)
+### Rogan --> [notrogan.dev](https://notrogan.dev)
 
-### Fekie --> [fekie.dev](fekie.dev)
+### Fekie --> [fekie.dev](https://fekie.dev)
 
-### Sapii --> [sapii.dev](sapii.dev)
+### Sapii --> [sapii.dev](https://sapii.dev)
