@@ -1,53 +1,28 @@
 +++
-date = '2024-11-30T18:39:41-05:00'
+date = '2024-12-02T00:00:00-00:00'
 draft = true
-title = 'Jarvis First Post'
-+++
+title = 'Welcome to the J.A.R.V.I.S. Project!!!!'
++++ 
 
-# City of Raleigh Internship
 
-Over last summer I did an internship at the City of Raleigh in their Youth Employment Program.
-Here is a rundown of it.
+## What This project is all about!
 
-## Job Site
+This is a project that is the representation of the collective 6 years of my time and dedication to programming is demonstrated. This is a project that is been a pain for myself to create, as this is about the 3rd or 4th version of this project in its entirety and respective area of programming. E.I. This is a ongoing project that is a accumulation of machine learning software solutions and neural networks that over time became too large or too vast for the program to have a meaningful purpose for most of the memory and in turn the project would simply kill itself in the most literal way possible. This is a project that has been going on for a long time and will continue to be a project that will be further developed and optimized to improve the user experience and the performance of the actual A.I. Assistance's capabilities in the use of this project mainly being for my engineering purposes. That would include but is not: 
 
-We mainly operated remotely, at our computers at home. Communication was handled through a special app on our phones and also the Slack Desktop Application.
-Sometimes we would get to go to in-person events at places like the McKimmon Center at NCSU or some community gyms.
-
-## What we did
-
-Our tasks mainly involved switching between researching, compiling that research and then presenting it.
-We got started with researching communities and demographics financially impacted by the pandemic.
-We did that for the first couple of weeks.
-
-Then we started to compile a report about our demographics. 
-We had to include stuff like which race made the most money in a certain region.
-Then we presented findings about which age ranges suffered most unemployment claims during a month.
-The most fun part was when we designed our own personas, people who we might see struggle after the pandemic.
-
-Finally in the last 2 weeks, we made a final presentation where we had to present it live to our boss.
-This final presentation contained the goal of the entire internship, to make a concept app that would help remedy the financial problems of people.
-My concept app relied on the introduction of the concept of Universal Basic Income (UBI) laws that basically operate the same way as stimulus checks given out during the pandemic.
-UBI just gives a basic income source, even if employed or unemployed so their savings can go up or you can take more time to find a job and not starve.
-My app was called UBIFI and it looked like an average banking app where you can see the transaction logs and send money away. UBI income is not regulated.
-
-Most days, we had multiple meetings with bankers and employees from Bank of America. They taught us all about taxes and credit and actually useful personal financing lessons.
-Then we had people come and talk about workplace etiquette and how to handle common workplace problems. One particular in-person event was the LinkedIn event at the McKimmon center. We met our partners in person and learned how to make a basic LinkedIn account and link it with our employers.
-
-## What we learned and skills gained
+# Engineering use cases:
+~ Designing C.A.D. Models
+~ Designing Circuits
+~ View 3D Models
+~ HoloMat (More on this in a later Post)
+~ 
 
 
 
-## Memories ( LinkedIn Event )
+## What I learned and skills gained
 
-![Pic 1](/images/internship1.jpg "")
-![Pic 2](/images/internship2.jpg "")
-![Pic 3](/images/internship3.jpg "")
 
 ## Master Document
 
 
 
 ## Thanks
-
-
