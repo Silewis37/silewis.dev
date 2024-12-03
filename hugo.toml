@@ -12,6 +12,7 @@ disqusShortname = ""
 [params.author]
   name = "Silewis"
   intro = """\
+  I am a up and coming software developer with tons of experience in python programming and machine learning capabilities.
    \
   """
 
