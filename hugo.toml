@@ -55,7 +55,7 @@ SectionPagesMenu = "main"
   url = "/friends"
 
 [params.meta]
-  keywords = "blog, tech, hacking, rev, web, pwn, ctf"
+  keywords = "blog, tech, hacking, rev, web, pwn, ctf, ai, personal assistant, machine learning"
   description = "Silewis37's Blog"
 
 [params]
