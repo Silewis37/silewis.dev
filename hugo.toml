@@ -37,12 +37,7 @@ SectionPagesMenu = "main"
   identifier = "about"
   url = "/about"
 
-[[menu.submenu]]
-  name = "About2"
-  weight = -130
-  identifier = "about2"
-  url = "/about2"
-  
+
 [[menu.main]]
   name = "Blog"
   weight = -120
