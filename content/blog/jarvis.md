@@ -1,6 +1,6 @@
 +++
 date = '2024-12-02T00:00:00-00:00'
-draft = true
+draft = false
 title = 'Welcome to the J.A.R.V.I.S. Project!!!!'
 +++ 
 
