@@ -61,7 +61,7 @@ SectionPagesMenu = "main"
 
 [params]
   mainSections = ['blog']
-  theme_colors = "default-dark" # uses color css file under static/css/default-dark.css
+  theme_colors = "cold-dark" # uses color css file under static/css/default-dark.css
   enable_separate_main_page = false # enable a separate main page with author intro and recent posts instead of the list of posts
   utterancesRepo="REPO_NAME" # Utterances is enabled when this param is set
   utterancesTheme="github-dark" # Default: github-dark
